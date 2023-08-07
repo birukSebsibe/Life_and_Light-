@@ -1,4 +1,4 @@
-# Laravel 9 Simple CMS
+# Life and Light web portal
 Basic boilerplate content management system for starters, supports Laravel 9.0.
 
 -----
