@@ -1,8 +1,8 @@
 <nav class="navbar is-light">
     <div class="container">
         <div class="navbar-brand">
+        <img src="i/icons/Logo-1.jpg" alt="{{ config('settings.site_title') }}" style="width:100px;height:100px;" >
             <a class="navbar-item" href="{{ route('root') }}">
-                <img src="{{ asset(config('settings.logo')) }}" alt="{{ config('settings.site_title') }}">
             </a>
             <div id="toggle-menu" class="navbar-burger burger">
                 <span></span>

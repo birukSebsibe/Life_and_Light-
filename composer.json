@@ -5,7 +5,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": "^8.0",
+        "php": "^8.2",
         "anhskohbo/no-captcha": "~3.3",
         "barryvdh/laravel-elfinder": "~0.5.1",
         "cviebrock/eloquent-sluggable": "~9.0",

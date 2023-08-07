@@ -26,7 +26,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('i/icons/favicon-32x32.png') }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('i/icons/favicon-16x16.png') }}">
     <link rel="manifest" href="{{ asset('i/icons/site.webmanifest') }}">
-    <link rel="mask-icon" href="{{ asset('i/icons/safari-pinned-tab.svg') }}" color="#336699">
+    <link rel="mask-icon" href="{{ asset('i/icons/safari-pinned-tab.svg') }}" color="#424F1F">
     <link rel="shortcut icon" href="{{ asset('i/icons/favicon.ico') }}">
     <meta name="msapplication-TileColor" content="#333">
     <meta name="msapplication-config" content="{{ asset('i/icons/browserconfig.xml') }}">

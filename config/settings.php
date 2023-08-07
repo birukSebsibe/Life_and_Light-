@@ -2,8 +2,8 @@
 
 return [
     'analytics_id'     => null,
-    'logo'             => 'i/icons/android-chrome-192x192.png',
+    'logo'             => 'i/icons/Logo-1.jpg',
     'login_image'      => 'https://ssl.gstatic.com/accounts/ui/avatar_2x.png',
     'site_description' => 'Laravel 9 Simple CMS example application description.',
-    'site_title'       => 'Laravel 9 Simple CMS'
+    'site_title'       => 'Life and Light'
 ];
